@@ -32,11 +32,6 @@
 <p align="center"> 
     ୧・┈┈┈┈・୨ ✦ ୧・┈┈┈┈・୨ ✦ ୧・┈┈┈┈・୨
 
-<p align="left">
-    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/956cab4e-2b7d-4df9-9977-245badd74b7f" />
-<p align="center"><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d93ddade-331f-4ca2-bfcf-7079a444e9db" />
-<p align="right"><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7a0b7d32-dd7c-4ff6-a122-42401f89b801" />
-
 
 
 <p align="center">
