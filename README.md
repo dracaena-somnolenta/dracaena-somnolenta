@@ -1,3 +1,4 @@
+<p align="center">
  𓏵 ┈┈・୨ ✦ ୧・┈┈┈┈・୨ ✦ ୧・┈┈┈┈・୨ ✦ ୧・┈┈┈┈・୨ ✦ ୧・┈┈┈┈・୨ ✦ ୧・┈┈ 𓏵
 <p align="center">
     <img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/e21e7e0a-e027-448b-b656-c142ee7a22d2" />
